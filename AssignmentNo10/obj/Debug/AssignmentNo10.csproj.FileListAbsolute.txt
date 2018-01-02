@@ -1,0 +1,7 @@
+C:\Users\Ahmad\Desktop\Projects\AssignmentNo10\AssignmentNo10\bin\Debug\AssignmentNo10.exe.config
+C:\Users\Ahmad\Desktop\Projects\AssignmentNo10\AssignmentNo10\bin\Debug\AssignmentNo10.exe
+C:\Users\Ahmad\Desktop\Projects\AssignmentNo10\AssignmentNo10\bin\Debug\AssignmentNo10.pdb
+C:\Users\Ahmad\Desktop\Projects\AssignmentNo10\AssignmentNo10\obj\Debug\AssignmentNo10.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad\Desktop\Projects\AssignmentNo10\AssignmentNo10\obj\Debug\AssignmentNo10.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Projects\AssignmentNo10\AssignmentNo10\obj\Debug\AssignmentNo10.exe
+C:\Users\Ahmad\Desktop\Projects\AssignmentNo10\AssignmentNo10\obj\Debug\AssignmentNo10.pdb
